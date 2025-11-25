@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splashscreen_bg">#ffffff</color>
+    <item name="red" type="color">#FC0303</item>
+    <integer-array name="androidcolors">
+    <item>@color/red</item>
+    </integer-array>
+</resources>

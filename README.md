@@ -1,5 +1,5 @@
-# GameZone
-## This app is about the game review and based on React Native.
+# tinderbyabhinav
+## This app is actually the clone of Tinder app.
 
 #### Screenshot: ``` Splash Screen ```
 
